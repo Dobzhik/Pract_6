@@ -1,0 +1,53 @@
+﻿<Window x:Class="LogicExpressionsSolver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Logic Expressions Solver" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        
+        <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto">
+            <WrapPanel x:Name="ButtonsPanel" Margin="10">
+                
+                <Button Content="Задача 1" Click="SolveTask1_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 2" Click="SolveTask2_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 3" Click="SolveTask3_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 4" Click="SolveTask4_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 5" Click="SolveTask5_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 6" Click="SolveTask6_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 7" Click="SolveTask7_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 8" Click="SolveTask8_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 9" Click="SolveTask9_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 10" Click="SolveTask10_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 11" Click="SolveTask11_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 12" Click="SolveTask12_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 13" Click="SolveTask13_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 14" Click="SolveTask14_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 15" Click="SolveTask15_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 16" Click="SolveTask16_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 17" Click="SolveTask17_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 18" Click="SolveTask18_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 19" Click="SolveTask19_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 20" Click="SolveTask20_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 21" Click="SolveTask21_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 22" Click="SolveTask22_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 23" Click="SolveTask23_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 24" Click="SolveTask24_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 25" Click="SolveTask25_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 26" Click="SolveTask26_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 27" Click="SolveTask27_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 28" Click="SolveTask28_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 29" Click="SolveTask29_Click" Margin="5" Width="100"/>
+                <Button Content="Задача 30" Click="SolveTask30_Click" Margin="5" Width="100"/>
+            </WrapPanel>
+        </ScrollViewer>
+
+        
+        <TextBox x:Name="ResultTextBox" Grid.Row="1" Margin="10" IsReadOnly="True" 
+                 VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"
+                 TextWrapping="Wrap"/>
+    </Grid>
+</Window>

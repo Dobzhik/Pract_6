@@ -1,0 +1,14 @@
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\bin\Debug\net9.0\Permonent.exe
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\bin\Debug\net9.0\Permonent.deps.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\bin\Debug\net9.0\Permonent.runtimeconfig.json
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\bin\Debug\net9.0\Permonent.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\bin\Debug\net9.0\Permonent.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\obj\Debug\net9.0\Permonent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\obj\Debug\net9.0\Permonent.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\obj\Debug\net9.0\Permonent.AssemblyInfo.cs
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\obj\Debug\net9.0\Permonent.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\obj\Debug\net9.0\Permonent.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\obj\Debug\net9.0\refint\Permonent.dll
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\obj\Debug\net9.0\Permonent.pdb
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\obj\Debug\net9.0\Permonent.genruntimeconfig.cache
+C:\Users\Segor\Desktop\VANloveGVOZDEV\Permonent\Permonent\obj\Debug\net9.0\ref\Permonent.dll
